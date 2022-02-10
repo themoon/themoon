@@ -4,4 +4,5 @@
 
 🌓 Dev log
 
-![themoon's github stats](https://github-readme-stats.vercel.app/api?username=themoon&show_icons=true&theme=swift)                  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themoon&layout=compact&theme=swift)
+![themoon's github stats](https://github-readme-stats.vercel.app/api?username=themoon&show_icons=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themoon&layout=compact&theme=swift)
