@@ -6,3 +6,5 @@
 
 ![themoon's github stats](https://github-readme-stats.vercel.app/api?username=themoon&show_icons=true)
 [![themoon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=themoon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/themoon)
+
+[![themoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=themoon)](https://github.com/anuraghazra/github-readme-stats)
